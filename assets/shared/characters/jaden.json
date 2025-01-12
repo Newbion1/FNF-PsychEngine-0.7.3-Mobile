@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jaden idle"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jaden left"
+		},
+		{
+			"offsets": [
+				-39,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jaden right"
+		},
+		{
+			"offsets": [
+				0,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jaden down"
+		},
+		{
+			"offsets": [
+				-36,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jaden up"
+		},
+		{
+			"offsets": [
+				112,
+				13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "mad",
+			"indices": [],
+			"name": "jaden mad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jaden",
+	"position": [
+		60,
+		210
+	],
+	"healthicon": "jaden",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

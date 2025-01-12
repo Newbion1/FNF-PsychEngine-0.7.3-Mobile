@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "j0kuzz idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "j0kuzz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "j0kuzz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "j0kuzz down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				30
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "j0kuzz miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "j0kuzz miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				30
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "j0kuzz miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "j0kuzz right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				29
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "j0kuzz miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				10
+			],
+			"anim": "pizza",
+			"fps": 24,
+			"name": "j0kuzz pizza",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/j0kuzz",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "j0kuzz",
+	"flip_x": true,
+	"healthbar_colors": [
+		243,
+		224,
+		192
+	],
+	"camera_position": [
+		20,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
