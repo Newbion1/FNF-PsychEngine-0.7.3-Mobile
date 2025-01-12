@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nosa.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nosa idle0000" x="0" y="0" width="288" height="518" frameX="0" frameY="-1" frameWidth="288" frameHeight="519"/>
+	<SubTexture name="nosa idle0001" x="0" y="0" width="288" height="518" frameX="0" frameY="-1" frameWidth="288" frameHeight="519"/>
+	<SubTexture name="nosa idle0002" x="0" y="0" width="288" height="518" frameX="0" frameY="-1" frameWidth="288" frameHeight="519"/>
+	<SubTexture name="nosa idle0003" x="0" y="0" width="288" height="518" frameX="0" frameY="-1" frameWidth="288" frameHeight="519"/>
+	<SubTexture name="nosa idle0004" x="0" y="0" width="288" height="518" frameX="0" frameY="-1" frameWidth="288" frameHeight="519"/>
+	<SubTexture name="nosa idle0005" x="288" y="0" width="288" height="519"/>
+	<SubTexture name="nosa idle0006" x="288" y="0" width="288" height="519"/>
+	<SubTexture name="nosa idle0007" x="288" y="0" width="288" height="519"/>
+	<SubTexture name="nosa idle0008" x="288" y="0" width="288" height="519"/>
+	<SubTexture name="nosa idle0009" x="288" y="0" width="288" height="519"/>
+</TextureAtlas>
